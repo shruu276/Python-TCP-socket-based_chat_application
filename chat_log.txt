@@ -1,0 +1,13 @@
+[08-10-2026 21:15:45] Server started on 0.0.0.0:5000
+[08-10-2026 21:19:39] Server started on 0.0.0.0:5000
+[08-10-2026 21:30:37] Shruti joined the chat.
+[08-10-2026 21:31:09] Poonam joined the chat.
+[08-10-2026 21:31:29] Dhansrhi joined the chat.
+[08-10-2026 21:31:44] Shruti: Hello everyone!
+[08-10-2026 21:35:38] Ishita joined the chat.
+[08-10-2026 21:36:00] Ishita: Hello Guyss
+[08-10-2026 21:37:29] Ishita: Hii
+[08-10-2026 21:37:42] Ishita: Hiii
+[08-10-2026 21:37:50] Ishita left the chat.
+[08-10-2026 21:37:55] Dhanshri joined the chat.
+[08-10-2026 21:38:06] Dhanshri: Welcome
